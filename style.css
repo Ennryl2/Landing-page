@@ -117,7 +117,7 @@ button:hover {
 
 img:hover {
     transform: scale(1.05);
-    transition: all 0.5s ease 0s;
+    transition: all 0.2s ease 0s;
     z-index: 2;
     
 }
@@ -171,7 +171,7 @@ h2 {
 
   .info:hover {
     transform: scale(1.05);
-    transition: all 0.5s ease 0s;
+    transition: all 0.3s ease 0s;
     z-index: 2;
   }
 
@@ -227,7 +227,7 @@ h2 {
 
 .wrapper3 {
     background-color: #1F2937;
-    padding: 50px;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
